@@ -31,13 +31,13 @@ I am interested in custom roms and android dev trees.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumil-konar&layout=donut)](https://github.com/soumil-konar/github-readme-stats)
 
-<p align="center">
+<!--<p align="center">
   <img src="https://wakatime.com/share/@f31572f3-aac6-48e0-9eb8-4d3083aeb7f1/b6d1ae8e-b780-478f-a35c-108026792967.svg" height="400"/>
 </p>
 
 <p align="center">
   <img src="https://wakatime.com/share/@f31572f3-aac6-48e0-9eb8-4d3083aeb7f1/b6d1ae8e-b780-478f-a35c-108026792967.svg" height="400"/>
-</p>
+</p> -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
