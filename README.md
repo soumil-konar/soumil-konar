@@ -27,10 +27,10 @@ i am interested in custom roms and android dev trees.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       4 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   39.81 %
+Python           4 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   39.81 %
 JavaScript       3 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░   31.71 %
 HTML             2 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
-Bash             37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+C++              37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   20.17 %
 JSON             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
