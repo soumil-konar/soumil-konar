@@ -41,7 +41,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/soumilkonar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p align="center">
-  [(https://spotify-github-profile.vercel.app/api/view?uid=yvy2qvvn7y7rom0n3x83zkow5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=yvy2qvvn7y7rom0n3x83zkow5&redirect=true)
+  (https://spotify-github-profile.vercel.app/api/view?uid=yvy2qvvn7y7rom0n3x83zkow5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)(https://spotify-github-profile.vercel.app/api/view?uid=yvy2qvvn7y7rom0n3x83zkow5&redirect=true)
 </p>
 
 🚧 **my todoist stats:**
