@@ -23,6 +23,7 @@ I am interested in custom roms and android dev trees.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumil-konar&layout=compact&hide=css,html)
 
 
@@ -57,7 +58,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soumil-konar&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+![Soumil's github stats](https://github-readme-stats.vercel.app/api?username=soumil-konar&count_private=true&show_icons=true&theme=onedark)
 
 
 
