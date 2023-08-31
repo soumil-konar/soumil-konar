@@ -29,23 +29,25 @@ I am interested in custom roms and android dev trees.
 <summary>⚡️ More about my coding life (nothing much tho)</summary>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumil-konar&layout=donut)](https://github.com/soumil-konar/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumil-konar&layout=donut)](https://github.com/soumil-konar/github-readme-stats)-->
 
-<!--<p align="center">
-  <img src="https://wakatime.com/share/@f31572f3-aac6-48e0-9eb8-4d3083aeb7f1/b6d1ae8e-b780-478f-a35c-108026792967.svg" height="400"/>
+<p align="left">
+  <img src="https://wakatime.com/share/@f31572f3-aac6-48e0-9eb8-4d3083aeb7f1/26d51771-2b62-4e53-8205-312fc3a80360.svg" height="400"/>
 </p>
 
-<p align="center">
+<!--<p align="left">
   <img src="https://wakatime.com/share/@f31572f3-aac6-48e0-9eb8-4d3083aeb7f1/b6d1ae8e-b780-478f-a35c-108026792967.svg" height="400"/>
-</p> -->
+</p>-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 📈 my github stats
+<p align="center">
 
-![Soumil's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumil-konar&show_icons=true&theme=radical)
-
+  ![Soumil's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumil-konar&show_icons=true&theme=radical)
+  
+</p>
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=soumil-konar&theme=onedark)](https://github.com/soumil-konar/github-profile-trophy) -->
 
 </details>
@@ -59,6 +61,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <div align="center">
   
 <!--![Visitor Count](https:​//profile-counter.glitch.me/soumil-konar/count.svg)-->
+
+</br>
+<a href="#">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soumil-konar&label=PROFILE+VISITOR+COUNTER&style=flat&color=6495ED" alt="soumil-konar" /> 
+</a>
 
 </div>
 
