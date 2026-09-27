@@ -88,26 +88,18 @@ passions: [Generative AI, Large Language Models, Distributed Systems, Open Sourc
   <table>
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=soumil-konar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=0f83c0&text_color=c9d1d9" alt="Soumil's GitHub Stats" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api?username=soumil-konar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=0f83c0&text_color=c9d1d9" alt="Soumil's GitHub Stats" width="100%" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumil-konar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=soumil-konar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
 
-  <!-- Streak Stats & WakaTime -->
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumil-konar&theme=tokyonight&hide_border=true&background=0d1117&fire=0f83c0&ring=58a6ff" alt="GitHub Streak Stats" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <!-- Wakatime Weekly Analytics -->
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=soumil-konar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" alt="Wakatime Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <!-- Streak Stats (Centered) -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumil-konar&theme=tokyonight&hide_border=true&background=0d1117&fire=0f83c0&ring=58a6ff" alt="GitHub Streak Stats" />
+  </p>
 
 </div>
 
@@ -121,7 +113,7 @@ passions: [Generative AI, Large Language Models, Distributed Systems, Open Sourc
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumil-konar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=0f83c0&point=38bdf8" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumil-konar&theme=tokyonight" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 </details>
@@ -132,7 +124,7 @@ passions: [Generative AI, Large Language Models, Distributed Systems, Open Sourc
 
 <div align="center">
   <a href="https://open.spotify.com/user/yvy2qvvn7y7rom0n3x83zkow5">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=yvy2qvvn7y7rom0n3x83zkow5&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify Profile" width="340px" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yvy2qvvn7y7rom0n3x83zkow5&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify Profile" width="340px" />
   </a>
 </div>
 
